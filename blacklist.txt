@@ -1,4 +1,6 @@
-www.example.net
-www.example.com
-www.example.org
 cdn.samsungcloudsolution.com
+speed.smpl.co
+sp-dir.uwn.com
+speedtest1.crosstalksolutions.com
+sts-node-sfo.ubncloud.com
+sts-node-valley.ubncloud.com
