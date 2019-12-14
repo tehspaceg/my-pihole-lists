@@ -616,3 +616,5 @@ roku.com
 my.roku.com
 keysvc.cs.roku.com
 apiweb.roku.com
+gameanalytics.com
+ping.ui.com
