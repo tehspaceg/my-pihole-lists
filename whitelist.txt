@@ -619,3 +619,4 @@ apiweb.roku.com
 gameanalytics.com
 ping.ui.com
 www.googletraveladservices.com
+www.derekseaman.com
