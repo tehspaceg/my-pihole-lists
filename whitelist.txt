@@ -624,3 +624,4 @@ prvsz4pe.micpn.com
 r20.rs6.net
 rs6.net
 forms.gle
+pci.spotify.com
