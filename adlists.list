@@ -37,7 +37,6 @@ https://hosts-file.net/ad_servers.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
-https://www.squidblacklist.org/downloads/dg-ads.acl
 
 ##Tracking & Telemetry
 https://v.firebog.net/hosts/Easyprivacy.txt
@@ -67,7 +66,6 @@ https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 
 ##Blocklist.site
