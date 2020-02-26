@@ -19,6 +19,7 @@
 192.168.69.12 lg-tv
 192.168.69.13 harmony-hub
 192.168.69.20 geran-kobo
+192.168.69.30 geran-car
 192.168.69.60 nest-cam
 192.168.69.61 nest-downstairs
 192.168.69.62 nest-upstairs
