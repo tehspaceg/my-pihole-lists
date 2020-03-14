@@ -626,3 +626,4 @@ rs6.net
 forms.gle
 pci.spotify.com
 use-application-dns.net
+tracking.costco.com
