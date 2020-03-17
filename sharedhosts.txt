@@ -4,6 +4,7 @@
 192.168.1.10 Dagobah
 192.168.1.11 laurie-desktop
 192.168.1.12 TIE-fighter
+192.168.1.13 laurie-laptop
 192.168.1.20 geran-phone
 192.168.1.21 laurie-phone
 192.168.1.22 geran-watch
@@ -21,7 +22,8 @@
 192.168.69.20 geran-kobo
 192.168.69.30 geran-car
 192.168.69.60 nest-cam
-192.168.69.61 nest-downstairs
-192.168.69.62 nest-upstairs
+192.168.69.61 nest-hallway
 192.168.69.63 nest-hub
 192.168.69.64 ghome-office
+192.168.69.65 nest-hello
+192.168.69.70 nexia-bridge
