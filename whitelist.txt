@@ -628,3 +628,4 @@ pci.spotify.com
 use-application-dns.net
 tracking.costco.com
 www.googletagmanager.com
+341800575.log.optimizely.com
