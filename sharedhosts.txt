@@ -11,14 +11,14 @@
 192.168.1.40 PS4
 192.168.1.41 Switch
 192.168.1.50 Printer
+192.168.1.60 roku
+192.168.1.65 harmony-hub
 192.168.1.90 work-wifi
 192.168.1.91 work-wan
 192.168.1.92 Laurie-Work
 192.168.50.69 work-vm
 192.168.69.10 av-receiver
-192.168.69.11 roku
 192.168.69.12 lg-tv
-192.168.69.13 harmony-hub
 192.168.69.20 geran-kobo
 192.168.69.30 geran-car
 192.168.69.60 nest-cam
@@ -26,4 +26,5 @@
 192.168.69.63 nest-hub
 192.168.69.64 ghome-office
 192.168.69.65 nest-hello
-192.168.69.70 nexia-bridge
+192.168.100.10 sunpower-monitor
+192.168.100.20 nexia-bridge
