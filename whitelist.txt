@@ -630,3 +630,5 @@ tracking.costco.com
 www.googletagmanager.com
 341800575.log.optimizely.com
 cdn.segment.com
+stun.cdn-net.com
+static.ecorebates.com
