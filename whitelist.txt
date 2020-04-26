@@ -633,3 +633,6 @@ cdn.segment.com
 stun.cdn-net.com
 static.ecorebates.com
 tracking-protection.cdn.mozilla.net
+austin.sb.roku.com
+amoeba2.web.roku.com
+austin.sw.roku.com
