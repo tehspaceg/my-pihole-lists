@@ -27,9 +27,7 @@ api.exchange.coinbase.com
 api.ipify.org
 api.nfl.com
 api.poloniex.com
-api.roku.com
 api.sandbox.coinbase.com
-api.sr.roku.com
 apmebf.com
 app.antpool.com
 app-api.ted.com
@@ -66,7 +64,6 @@ btc.ru.sp918.antpool.com
 bufferapp.com
 buy.coinbase.com
 captive.apple.com
-captive.roku.com
 cc-dt.com
 cdn2.optimizely.com
 cdn3.optimizely.com
@@ -77,7 +74,6 @@ cdnjs.cloudflare.com
 cdn.optimizely.com
 cdn.vidible.tv
 cert.mgt.xboxlive.com
-channels.roku.com
 cj.com
 cj.dotomi.com
 ckpool.org
@@ -199,7 +195,6 @@ help.ui.xboxlive.com
 hls.ted.com
 i1.ytimg.com
 icloud.com
-image.roku.com
 imagesak.secureserver.net
 images.antpool.com
 images.coinbase.com
@@ -588,7 +583,6 @@ ads-e-darwin.hulustream.com
 tags.tiqcdn.com
 cdn2.hubspot.net
 api.mapbox.com
-www.roku.com
 redirector.gvt1.com
 cdn.dynamicyield.com
 st.dynamicyield.com
@@ -605,17 +599,6 @@ config.uca.cloud.unity3d.com
 tracking.amdcpusettlement.com
 example.com
 bootstrap.upsight-api.com
-community.roku.com
-cooper.sw.roku.com
-firmware.roku.com
-plugins.roku.com
-plugins.qa.roku.com
-cooper.sb.roku.com
-support.roku.com
-roku.com
-my.roku.com
-keysvc.cs.roku.com
-apiweb.roku.com
 gameanalytics.com
 ping.ui.com
 www.googletraveladservices.com
@@ -633,6 +616,3 @@ cdn.segment.com
 stun.cdn-net.com
 static.ecorebates.com
 tracking-protection.cdn.mozilla.net
-austin.sb.roku.com
-amoeba2.web.roku.com
-austin.sw.roku.com
