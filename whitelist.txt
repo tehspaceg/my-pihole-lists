@@ -616,3 +616,5 @@ cdn.segment.com
 stun.cdn-net.com
 static.ecorebates.com
 tracking-protection.cdn.mozilla.net
+captive.roku.com
+cooper.sw.roku.com
